@@ -33,6 +33,7 @@ public class Main {
                     break;
                 case 4:
                     manager.SearchByJob();
+                    System.out.println("===================================================================================================");
                     menu.Wait();
                     break;
                 case 0:
